@@ -6,10 +6,6 @@
 
 ## A passionate frontend developer from Taiwan
 
-- 🔭 I’m currently working on [Metawall](https://github.com/bugbug777/metawall)
-
-- 🌱 I’m currently learning **Vue, Node**
-
 - 📫 How to reach me **gubug777@gmail.com**
 
 ## Languages and Tools:
